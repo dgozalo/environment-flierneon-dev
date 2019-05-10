@@ -1,0 +1,4 @@
+datadog:
+  apiKey: vault:gitOps/dgozalo/environment-flierneon-dev/datadog-apikey-secret:token-passthrough
+  logEnabled: false
+  site: datadoghq.com
